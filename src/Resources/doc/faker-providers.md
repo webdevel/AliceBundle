@@ -9,7 +9,7 @@ you will have to declare them as services:
 ```php
 <?php
 
-namespace AppBundle\DataFixtures\Provider;
+namespace AppBundle\DataFixtures\Faker\Provider;
 
 class FooProvider
 {
